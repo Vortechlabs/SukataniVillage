@@ -1,0 +1,444 @@
+
+25-12-2024 14:16:00 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+25-12-2024 14:16:00 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+25-12-2024 14:17:12 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+25-12-2024 14:17:12 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+25-12-2024 14:20:29 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:20:29 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:20:29 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:20:29 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:20:31 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:20:31 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+-------------------------------
+25-12-2024 14:23:39 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 14:24:40 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 14:25:40 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 14:26:00 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1-1.jpeg" alt="" class="wp-image-69"/>',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1-1.jpeg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:26:00 [localhost][info] An attachment (69) was found in the text of the post.
+25-12-2024 14:26:00 [localhost][info] Featured image (69) is set for post (67)
+25-12-2024 14:26:00 [localhost][warning] The post (67) has already been assigned a featured image
+25-12-2024 14:26:00 [localhost][warning] The post (67) has already been assigned a featured image
+-------------------------------
+25-12-2024 14:26:04 [localhost][warning] The post (67) has already been assigned a featured image
+25-12-2024 14:26:04 [localhost][warning] The post (67) has already been assigned a featured image
+-------------------------------
+25-12-2024 14:29:16 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:29:16 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:29:17 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:29:17 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:29:18 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:29:18 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+-------------------------------
+25-12-2024 14:30:12 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:12 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:12 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:12 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:13 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:13 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+-------------------------------
+25-12-2024 14:30:37 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:37 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:37 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:37 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:38 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+25-12-2024 14:30:38 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="700" height="467" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/pemkot-batu-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="1200" height="800" src="http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg" alt="" />',
+    'url' => 'http://localhost/sukatani_village/wp-content/uploads/2024/12/676a57bb4edf4.jpg',
+    'title' => '',
+  ),
+)
+-------------------------------
+25-12-2024 15:08:51 [localhost][debug] Found images: array (
+)
+25-12-2024 15:08:51 [localhost][debug] Found images: array (
+)
+25-12-2024 15:08:52 [localhost][debug] Found images: array (
+)
+25-12-2024 15:08:52 [localhost][debug] Found images: array (
+)
+25-12-2024 15:08:52 [localhost][debug] Found images: array (
+)
+25-12-2024 15:08:53 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 15:09:29 [localhost][debug] Found images: array (
+)
+25-12-2024 15:09:29 [localhost][debug] Found images: array (
+)
+25-12-2024 15:09:29 [localhost][debug] Found images: array (
+)
+25-12-2024 15:09:30 [localhost][debug] Found images: array (
+)
+25-12-2024 15:09:30 [localhost][debug] Found images: array (
+)
+25-12-2024 15:09:30 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 15:10:02 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:02 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:03 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:03 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:03 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:03 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 15:10:41 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:41 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:42 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:42 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:42 [localhost][debug] Found images: array (
+)
+25-12-2024 15:10:42 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 15:14:32 [localhost][debug] Found images: array (
+)
+25-12-2024 15:14:32 [localhost][debug] Found images: array (
+)
+25-12-2024 15:14:32 [localhost][debug] Found images: array (
+)
+25-12-2024 15:14:32 [localhost][debug] Found images: array (
+)
+25-12-2024 15:14:35 [localhost][debug] Found images: array (
+)
+25-12-2024 15:14:35 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 15:15:08 [localhost][debug] Found images: array (
+)
+25-12-2024 15:15:08 [localhost][debug] Found images: array (
+)
+25-12-2024 15:15:08 [localhost][debug] Found images: array (
+)
+25-12-2024 15:15:08 [localhost][debug] Found images: array (
+)
+25-12-2024 15:15:09 [localhost][debug] Found images: array (
+)
+25-12-2024 15:15:09 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 15:16:14 [localhost][debug] Found images: array (
+)
+25-12-2024 15:16:14 [localhost][debug] Found images: array (
+)
+25-12-2024 15:16:14 [localhost][debug] Found images: array (
+)
+25-12-2024 15:16:14 [localhost][debug] Found images: array (
+)
+25-12-2024 15:16:15 [localhost][debug] Found images: array (
+)
+25-12-2024 15:16:15 [localhost][debug] Found images: array (
+)
+-------------------------------
+25-12-2024 15:17:00 [localhost][debug] Found images: array (
+)
+25-12-2024 15:17:00 [localhost][debug] Found images: array (
+)
+25-12-2024 15:17:00 [localhost][debug] Found images: array (
+)
+25-12-2024 15:17:00 [localhost][debug] Found images: array (
+)
+25-12-2024 15:17:01 [localhost][debug] Found images: array (
+)
+25-12-2024 15:17:01 [localhost][debug] Found images: array (
+)
+-------------------------------
